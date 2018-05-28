@@ -13,6 +13,11 @@
 	margin:0px auto;
 	padding:0px;
 }
+.row-content{
+	margin:0px auto;
+	padding:30px 0px 30px 0px;
+	min-height:500px;
+}
 address{
     font-size:80%;
     margin:0px;
